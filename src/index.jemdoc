@@ -1,0 +1,27 @@
+# jemdoc: menu{MENU}{index.html}, nofooter
+= Zhenyu Lei
+
+~~~
+{}{img_left}{./assets/basic_info/avatar.jpg}{photo}{120px}{160px}{}
+Xi'an Jiaotong University\n
+Computer Science\n\n
+[https://github.com/LzyFischer Github]\n
+[https://scholar.google.com/citations?hl=en&user=y4uMsEIAAAAJ Google Scholar]\n
+[Fischer@stu.xjtu.edu.cn]
+~~~
+
+== Biography
+Zhenyu is now a senior student in School of Physics, 
+Xi'an Jiaotong University. He has a wide range of interest in Computer Science (Research in LUD lab), 
+Physics (Bachelor), Finance and Chemistry (Second Prize in CCho in high school).
+He now mainly focuses on computer science. He joined LUD lab and researched on 
+social network analysis with deep learning(Twitter bot detection, stance detection). 
+He has participated in several papers of top conferences and he was invited as a reviewer of NeurIPS.
+
+== What's new?
+- 2022/09: One of my participated paper [https://arxiv.org/pdf/2206.04564.pdf "TwiBot-22: Towards Graph-Based
+Twitter Bot Detection"] is accepted by NeurIPS 2023!
+
+
+== Education
+- B.S. in Physics, Xi'an Jiaotong University, 2019

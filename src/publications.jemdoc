@@ -1,0 +1,17 @@
+# jemdoc: menu{MENU}{publications.html}, nofooter
+= Publications
+
+== Preprints
+. BIC: Twitter Bot Detection with Text-Graph Interaction and Semantic Consistency\n
+*Zhenyu Lei*, Herun Wan, Wenqian Zhang, Shangbin Feng, ...\n
+Arxiv, 2022. \[[https://arxiv.org/pdf/2208.08320.pdf paper]\] \[[https://github.com/LzyFischer/BIC code]\]
+
+== Conference papers
+. KCD: Knowledge Walks and Textual Cues Enhanced Political Perspective Detection in News Media\n
+Wenqian Zhang, Shangbin Feng, Zilong Chen, *Zhenyu Lei*, ...\n
+North American Chapter of the Association for Computational Linguistic (NAACL), 2022. \[[https://arxiv.org/pdf/2204.04046.pdf paper]\]
+
+
+. TwiBot-22: Towards Graph-Based Twitter Bot Detection\n 
+S Feng, ..., *Zhenyu Lei* (multi-auther paper)\n
+Neural Information Processing Systems (NeurIPS), 2023. \[[https://arxiv.org/pdf/2206.04564.pdf paper]\]
